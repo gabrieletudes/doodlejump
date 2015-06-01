@@ -1,0 +1,26 @@
+/*10fastfinger.com 60 70 mots minute*/
+
+* {
+	font-family: 'Avenir Next';
+}
+/*body {
+	background: url('bcg.png');
+}*/
+h1 {
+	font-family: 'Fira Sans';
+	color: #aaa;
+	letter-spacing: 4px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+canvas {
+	display: block;
+	margin: 20px auto;
+	border: 1px solid rgba(0, 50, 100, 0.4);
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.4);
+}
+
+::selection {
+	background: transparent;
+}
